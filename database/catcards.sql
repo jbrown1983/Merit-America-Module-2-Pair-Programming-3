@@ -10,3 +10,6 @@ CREATE TABLE catcards (
 );
 
 COMMIT TRANSACTION;
+
+Select *
+From 
